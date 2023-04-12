@@ -14,3 +14,4 @@ class Singleton{
 }
 
 //测试
+
